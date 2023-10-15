@@ -11,7 +11,7 @@ $1 / R_g=$
 2. Berechne den Gesamtwiderstand und die Spannung.
 3. Bestimme den Strom durch den Widerstand.
 
-
+```marmaid
 quadrantChart
     title Ohmscher Widerstand
     x-axis Spannung in V
@@ -26,3 +26,4 @@ quadrantChart
     Campaign D: [0.78, 0.34]
     Campaign E: [0.40, 0.34]
     Campaign F: [0.35, 0.78]
+```
